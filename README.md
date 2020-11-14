@@ -1,2 +1,4 @@
-# Course-Operating-Systems
-Homework in the Operating Systems course
+# Operating-Systems
+Operating Systems projects
+
+
